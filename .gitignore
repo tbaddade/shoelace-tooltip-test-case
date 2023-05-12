@@ -1,0 +1,15 @@
+/.build
+/.env.local
+/node_modules/
+
+
+# PhpStorm setting
+/.idea/*
+
+/public/assets/fonts
+/public/assets/images
+/public/assets/scripts
+/public/assets/styles
+/public/assets/svgs
+
+/public/build/
